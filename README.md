@@ -1,4 +1,4 @@
-![App Logo](images/app-icon.png)
+<img src="images/app-icon.png"/>
 <h1 align="center"> FlashLight-Controller-Android </h1>
 Com esse aplicativo, você consegue controlar a lanterna de seu dispositivo, podendo ligar e desligar somente com um botão.
 
@@ -8,6 +8,7 @@ Para isso o aplicativo requer somente a permissão do FLASHLIGHT para o funciona
 Aplicativo não acessa e nem habilita a câmera ou a lanterna automáticamente.
 
 <h1 align="center">Permissões do Aplicativo</h1>
+
 Para que o aplicativo funciona o sistema de ligar e desligar a lanterna, e necessário que só entrar no aplicativo,
 Você permita essas permissões:
 
@@ -29,5 +30,5 @@ Algumas informações do desenvolvimento do aplicativo.
 - **Versão do Código: 1.0**
 
 <h1 align="center">Lançamento</h1>
-O Lançamento em APK será em breve, com a primeira versão compilada do aplicativo.
 
+A primeira versão em APK já foi lançada, na versão ```v1.0```.
